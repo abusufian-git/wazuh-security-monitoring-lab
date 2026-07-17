@@ -5,16 +5,16 @@
 ### Threat Modelling and Security Monitoring Sessional (SEC 204)
 
 <p align="center">
-<img src="screenshots/banner.png" width="100%">
+<img src="banner.png" width="100%">
 </p>
 
 Deploying and monitoring a **Windows 11 Endpoint** using **Wazuh SIEM**, including **Threat Detection**, **Security Configuration Assessment (SCA)**, **MITRE ATT&CK Mapping**, and **Compliance Monitoring**.
 
 <p>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/wazuh-security-monitoring-lab?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/wazuh-security-monitoring-lab?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/YOUR_USERNAME/wazuh-security-monitoring-lab?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/abusufian-git/wazuh-security-monitoring-lab?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/abusufian-git/wazuh-security-monitoring-lab?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/abusufian-git/wazuh-security-monitoring-lab?style=for-the-badge)
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -254,34 +254,8 @@ After completing this lab, I gained practical experience in:
 - Threat Detection
 - Blue Team Operations
 
----
 
-# 📂 Repository Structure
 
-```text
-wazuh-security-monitoring-lab/
-│
-├── README.md
-├── LICENSE
-├── screenshots/
-│   ├── banner.png
-│   ├── security-events-overview.png
-│   ├── windows-agent-dashboard.png
-│   ├── security-events-dashboard.png
-│   └── sca-results.png
-│
-├── docs/
-│   ├── installation.md
-│   ├── setup.md
-│   └── sca-analysis.md
-│
-├── reports/
-│   └── Security_Assessment_Report.pdf
-│
-└── assets/
-```
-
----
 
 # 🎓 Course Information
 
@@ -314,9 +288,9 @@ Cyber Security Engineering Student
 
 University of Frontier Technology Bangladesh
 
-🔗 LinkedIn: *Add your LinkedIn URL*
+🔗 LinkedIn: *https://www.linkedin.com/in/abu-sufian-cyse/*
 
-🐙 GitHub: *https://github.com/YOUR_USERNAME*
+🐙 GitHub: *https://github.com/abusufian-git*
 
 ---
 
