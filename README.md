@@ -34,7 +34,7 @@ Compliance
 
 ## 1. Security Events Overview
 
-![Security Events Overview](screenshots/security-events-overview.png)
+![Security Events Overview](security-events-overview.png)
 
 This dashboard provides a centralized view of Windows security events, rule groups, alert trends, PCI DSS mappings, and event statistics collected by Wazuh.
 
@@ -42,7 +42,7 @@ This dashboard provides a centralized view of Windows security events, rule grou
 
 ## 2. Windows Agent Dashboard
 
-![Windows Agent Dashboard](screenshots/windows-agent-dashboard.png)
+![Windows Agent Dashboard](windows-agent-dashboard.png)
 
 The agent dashboard displays endpoint status, MITRE ATT&CK mappings, compliance information, file integrity monitoring (FIM), and Security Configuration Assessment (SCA) results.
 
@@ -50,7 +50,7 @@ The agent dashboard displays endpoint status, MITRE ATT&CK mappings, compliance 
 
 ## 3. Security Events Analysis
 
-![Security Events Dashboard](screenshots/security-events-dashboard.png)
+![Security Events Dashboard](security-events-dashboard.png)
 
 This view highlights alert evolution, top MITRE ATT&CK techniques, monitored agents, and security event trends for threat analysis.
 
@@ -58,7 +58,7 @@ This view highlights alert evolution, top MITRE ATT&CK techniques, monitored age
 
 ## 4. Security Configuration Assessment (SCA)
 
-![SCA Results](screenshots/sca-results.png)
+![SCA Results](sca-results.png)
 
 Security assessment performed using the **CIS Microsoft Windows 11 Enterprise Benchmark v1.0.0**.
 
